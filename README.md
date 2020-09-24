@@ -1,2 +1,5 @@
 # Scraping_schools.org.in
-Scraping information for all schools in India
+
+This is an interactive web scraping code for extracting all relevant information 
+about all schools in India according to the state name.
+
